@@ -1,0 +1,9 @@
+{
+  "name": "ionic2-dropbox",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "v2": true,
+  "typescript": true
+}
